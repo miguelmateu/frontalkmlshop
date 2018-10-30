@@ -1,5 +1,5 @@
 ---
-title: "Ruta esporlas 2
+title: "Ruta esporlas 2"
 date: 2018-10-27T11:59:33+02:00
 mainimage: "imagesfromdatabase/ruta28673738044447002858.jpg"
 description: "wedwedwed"
