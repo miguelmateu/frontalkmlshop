@@ -8,4 +8,3 @@ item_number: "34"
 item_value: "1.0"
 notify_url: "http://kmlshop.mateu.io/paypal/notify"
 ---
-edwedwe
