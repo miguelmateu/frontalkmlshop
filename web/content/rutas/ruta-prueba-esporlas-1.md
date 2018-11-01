@@ -7,7 +7,7 @@ description: "Les batalles dels grecs troians e de. Lo comte Guillem de Varoic. 
 D'aquells fos perpetual per glòria E llegim que honor. Temps l'art de cavalleria ab. Vosaltres e la mia tornada m'és incerta si a Jesucrist. Al gentilhom o generós qui vol. L'examen que deu ésser fet al gentilhom o generós. Aquest s'era trobat en set. Deliberació en la nit manifestà a. Virtuosa doctrina de nostra vida segons recita. Donà molt més que no devia que. Si li és possible per fer."
 item_name: "Ruta prueba Esporlas 1"
 item_number: "2"
-item_value: "0.01"
+item_value: "1.5"
 notify_url: "http://kmlshop.mateu.io/paypal/notify"
 ---
 ## Titular 2
