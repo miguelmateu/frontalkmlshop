@@ -1,7 +1,7 @@
 ---
 title: "Esporles - Valldemossa"
 date: 2018-10-27T11:59:33+02:00
-mainimage: "imagesfromdatabase/ruta28210079600326051860.jpg"
+mainimage: "imagesfromdatabase/Alexandra-Daddario-most-beautiful-woman5226269429126980631.png"
 description: "Etapa 4 Esporles - Valldemossa
 Gr221 de la serra de Tramuntana"
 item_name: "Esporles - Valldemossa"
